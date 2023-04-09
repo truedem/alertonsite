@@ -14,7 +14,7 @@ Information Collection and Use
 
 App develoepr does not collect or store any personal data from the users.
 
-The app use a web browser that may transmit information used to identify users - such as Internet protocol address ("IP") and geographical location ("geolocation"). Permission to transmit geolocation will be explicitly asked on the first use and may be revoked from Settings app on your device.
+The app use a web browser that may transmit information used to identify users by the owners of web sites you may visit within the web browser component - such as Internet protocol address ("IP") and geographical location ("geolocation"). Permission to transmit geolocation will be explicitly asked on the first use and may be revoked from Settings app on your device.
 
 Link to the privacy policy of third-party service providers used by the app
 
@@ -33,7 +33,7 @@ Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This app use these “cookies” explicitly within its web browser component. This component within the app may use third-party code and libraries that use “cookies” to collect information and improve their services.
 
 Service Providers
 
